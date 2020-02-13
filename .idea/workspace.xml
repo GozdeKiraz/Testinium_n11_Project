@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8954a7c6-6f85-4b89-9b3d-fd3093a456dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZUidbT8iSfTtXcASkO7pglJJl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\testinium_n11_project\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestCase.NextTwoPageControl">
+    <configuration name="TestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinium_n11_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.Login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinium_n11_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase" />
+      <option name="METHOD_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.LoginControl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinium_n11_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase" />
+      <option name="METHOD_NAME" value="LoginControl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.NextTwoPageControl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinium_n11_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase" />
+      <option name="METHOD_NAME" value="NextTwoPageControl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.WebSiteControl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testinium_n11_project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCase" />
+      <option name="METHOD_NAME" value="WebSiteControl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCase.NextTwoPageControl" />
+        <item itemvalue="JUnit.TestCase.LoginControl" />
+        <item itemvalue="JUnit.TestCase.WebSiteControl" />
+        <item itemvalue="JUnit.TestCase.Login" />
+        <item itemvalue="JUnit.TestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8954a7c6-6f85-4b89-9b3d-fd3093a456dd" name="Default Changelist" comment="" />
+      <created>1581253238776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581253238776</updated>
+      <workItem from="1581253245083" duration="1319000" />
+      <workItem from="1581254618305" duration="1940000" />
+      <workItem from="1581256609688" duration="607000" />
+      <workItem from="1581326651883" duration="1600000" />
+      <workItem from="1581334127251" duration="1788000" />
+      <workItem from="1581335982607" duration="1769000" />
+      <workItem from="1581337808839" duration="537000" />
+      <workItem from="1581344873804" duration="2040000" />
+      <workItem from="1581346990194" duration="362000" />
+      <workItem from="1581493313017" duration="1774000" />
+      <workItem from="1581495144784" duration="964000" />
+      <workItem from="1581518884188" duration="1749000" />
+      <workItem from="1581520809457" duration="1289000" />
+      <workItem from="1581525439615" duration="1766000" />
+      <workItem from="1581527492558" duration="1781000" />
+      <workItem from="1581529369360" duration="993000" />
+      <workItem from="1581531193452" duration="214000" />
+      <workItem from="1581536872217" duration="1769000" />
+      <workItem from="1581538715939" duration="1764000" />
+      <workItem from="1581540539015" duration="1062000" />
+      <workItem from="1581584656542" duration="1304000" />
+      <workItem from="1581586031614" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="121" key="GridCell.Tab.0.bottom" timestamp="1581586231827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581586231827" />
+    <state width="1323" height="121" key="GridCell.Tab.0.center" timestamp="1581586231826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581586231826" />
+    <state width="1323" height="121" key="GridCell.Tab.0.left" timestamp="1581586231825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581586231825" />
+    <state width="1323" height="121" key="GridCell.Tab.0.right" timestamp="1581586231827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581586231827" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1581254813494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581254813494" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581586034616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581586034616" />
+  </component>
+</project>
