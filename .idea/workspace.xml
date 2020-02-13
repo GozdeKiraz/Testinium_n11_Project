@@ -36,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XZUidbT8iSfTtXcASkO7pglJJl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -161,7 +162,7 @@
       <workItem from="1581538715939" duration="1764000" />
       <workItem from="1581540539015" duration="1062000" />
       <workItem from="1581584656542" duration="1304000" />
-      <workItem from="1581586031614" duration="275000" />
+      <workItem from="1581586031614" duration="782000" />
     </task>
     <servers />
   </component>
@@ -169,22 +170,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="121" key="GridCell.Tab.0.bottom" timestamp="1581586231827">
+    <state width="1323" height="121" key="GridCell.Tab.0.bottom" timestamp="1581586816003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581586231827" />
-    <state width="1323" height="121" key="GridCell.Tab.0.center" timestamp="1581586231826">
+    <state width="1323" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581586816003" />
+    <state width="1323" height="121" key="GridCell.Tab.0.center" timestamp="1581586816002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581586231826" />
-    <state width="1323" height="121" key="GridCell.Tab.0.left" timestamp="1581586231825">
+    <state width="1323" height="121" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581586816002" />
+    <state width="1323" height="121" key="GridCell.Tab.0.left" timestamp="1581586816002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581586231825" />
-    <state width="1323" height="121" key="GridCell.Tab.0.right" timestamp="1581586231827">
+    <state width="1323" height="121" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581586816002" />
+    <state width="1323" height="121" key="GridCell.Tab.0.right" timestamp="1581586816003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581586231827" />
+    <state width="1323" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581586816003" />
     <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1581254813494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
